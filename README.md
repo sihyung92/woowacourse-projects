@@ -1,4 +1,4 @@
-# 🚀 woowacourse-projects
+# 🔥 woowacourse-projects
 
 <p align="center">
     <img src='./img/techcourse_poster_3nd.jpg' width="50%">
@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🔮 Level 0 : 프리코스
+## 🔥 Level 0 : 프리코스
 ### 기간
 - 2020.11.25 – 2020.12.16
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-## 🔮 Level 0.5 : 최종 코딩 테스트
+## 🔥 Level 0.5 : 최종 코딩 테스트
 ### 기간
 - 2020.12.19
 
@@ -38,7 +38,7 @@
 
 <br/>
 
-## 🧩 Level 1 : TDD, OOP, Refactoring, Clean Code
+## 🔥 Level 1 : TDD, OOP, Refactoring, Clean Code
 ### 기간
 - 2021.02.03 – 2021.04.02
 
@@ -76,7 +76,7 @@
 
 <br/>
 
-## 🌿 Level 2 : Spring Framework, Deployment, Infrastructure
+## 🔥 Level 2 : Spring Framework, Deployment, Infrastructure
 ### 기간
 - 2021.04.13 – 2021.06.04
 
@@ -109,7 +109,7 @@
 
 <br/>
 
-## 🌈 Level 3 : Team Project
+## 🔥 Level 3 : Team Project
 ### 기간
 - 2021.06.22 – 2021.10.29
 
@@ -173,7 +173,7 @@
 
 <br/>
 
-## 📝 Writing : 글쓰기 코스
+## 🔥 Writing : 글쓰기 코스
 ### 진행 미션
 |Level |Topic |Repository |Pull Request |Reviewer |
 |:----:|:----:|:---------:|:-----------:|:-------:|
@@ -184,7 +184,7 @@
 
 <br/>
 
-## 📖 Tecoble : 우아한테크코스 코드 리뷰 모음 공간
+## 🔥 Tecoble : 우아한테크코스 코드 리뷰 모음 공간
 ### 활동 내용
 #### 글
 - [웹 MVC 각 컴포넌트 역할](https://woowacourse.github.io/tecoble/post/2021-04-26-mvc/)
