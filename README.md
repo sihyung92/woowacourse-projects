@@ -54,28 +54,16 @@
 ### 진행 미션
 |Project |Repository |Pull Request |Pair |Reviewer |
 |:------:|:---------:|:-----------:|:---:|:-------:|
-|자동차 경주 게임/step1|[java-racingcar/step1](https://github.com/da-nyee/java-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/184)|[중간곰](https://github.com/ggyool)|[김고래](https://github.com/ep1stas1s)|
-|자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/da-nyee/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/237)| |[김고래](https://github.com/ep1stas1s)|
-|로또/step1|[java-lotto/step1](https://github.com/da-nyee/java-lotto/tree/step1)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/248)|[김김](https://github.com/tributetothemoon)|[코니](https://github.com/choihz)|
-|로또/step2|[java-lotto/step2](https://github.com/da-nyee/java-lotto/tree/step2)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/322)| |[코니](https://github.com/choihz)|
-|블랙잭/step1|[java-blackjack/step1](https://github.com/da-nyee/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/139)|[아마찌](https://github.com/NewWisdom)|[미립](https://github.com/seok-2-o)|
-|블랙잭/step2|[java-blackjack/step2](https://github.com/da-nyee/java-blackjack/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/211)| |[미립](https://github.com/seok-2-o)|
-|Java 8 Lambda, Stream API|[java-study/da-nyee](https://github.com/da-nyee/java-study/tree/da-nyee)| | | |
-|체스/step1|[java-chess/step1](https://github.com/da-nyee/java-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/java-chess/pull/193)|[검프](https://github.com/Livenow14)|[휴](https://github.com/Hue9010)|
-|체스/step2|[java-chess/step2](https://github.com/da-nyee/java-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/java-chess/pull/258)| |[휴](https://github.com/Hue9010)|
-|투두리스트/step1|[js-todo-list-step1/da-nyee](https://github.com/da-nyee/js-todo-list-step1/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/11)| | |
-
-### 블로그 포스팅
-- [[Design Pattern] SOLID 원칙 (SOLID Principles)](https://da-nyee.github.io/posts/design-pattern-solid-principles/)
-- [[Java] 스트림 (Stream)](https://da-nyee.github.io/posts/java-stream/)
-- [[Java] 문자열 (String)](https://da-nyee.github.io/posts/java-string/)
-- [[우아한테크코스] 코드 테스트가 중요한 이유 (Why code testing is important)](https://da-nyee.github.io/posts/woowa-course-why-code-testing-is-important/)
-- [[Java] HashMap vs LinkedHashMap](https://da-nyee.github.io/posts/java-hashmap-vs-likedhashmap/)
-- [[Java] flatMap으로 중첩 루프 없애는 방법 (How to remove nested loops using flatMap)](https://da-nyee.github.io/posts/java-how-to-remove-nested-loops-using-flatmap/)
-- [[우아한테크코스] 싱글톤 패턴은 객체지향적일까? (Is the singleton pattern object-oriented?)](https://da-nyee.github.io/posts/woowa-course-is-the-singleton-pattern-object-oriented/)
-- [[우아한테크코스] SQL 퀴즈 및 정답 (SQL Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-sql-quizzes-and-answers/)
-- [[Java] try-with-resources](https://da-nyee.github.io/posts/java-try-with-resources/)
-- [[우아한테크코스] 다니의 학습 로그 - 레벨 1](https://da-nyee.github.io/posts/woowa-course-learning-log-level1/)
+|자동차 경주 게임/step1|[java-racingcar](https://github.com/woowacourse/java-racingcar)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/120)|[삭정](https://github.com/sakjung)|[재연링](https://github.com/jaeyeonling)|
+|자동차 경주 게임/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/java-racingcar/pull/204)| |[재연링](https://github.com/jaeyeonling)|
+|로또/step1|[java-lotto](https://github.com/woowacourse/java-lotto)|[Pull Request](https://github.com/woowacourse/java-lotto/pull/246)|[알리](https://github.com/jh8579)|[제이](https://github.com/JunHoPark93)|
+|로또/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/java-lotto/pull/289)| |[제이](https://github.com/JunHoPark93)|
+|블랙잭/step1|[java-blackjack](https://github.com/woowacourse/java-blackjack)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/123)|[욘](https://github.com/thisisyoungbin)|[닉](https://github.com/wbluke)|
+|블랙잭/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/java-blackjack/pull/168)| |[닉](https://github.com/wbluke)|
+|체스/step1|[java-chess](https://github.com/woowacourse/java-chess)|[Pull Request](https://github.com/woowacourse/java-chess/pull/183)|[김김](https://github.com/tributetothemoon)|[김고래](https://github.com/ep1stas1s)|
+|체스/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/java-chess/pull/239)| |[김고래](https://github.com/ep1stas1s)|
+|투두리스트/step1|[js-todo-list-step1](https://github.com/woowacourse/js-todo-list-step1)|[Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/37)| | |
+|투두리스트/step2|[js-todo-list-step2](https://github.com/woowacourse/js-todo-list-step2)|[Pull Request](https://github.com/woowacourse/js-todo-list-step2/pull/2)| | |
 
 <br/>
 
