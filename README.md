@@ -74,29 +74,13 @@
 ### 진행 미션
 |Project |Repository |Pull Request |Pair |Reviewer |
 |:------:|:---------:|:-----------:|:---:|:-------:|
-|체스/step1|[jwp-chess/step1](https://github.com/da-nyee/jwp-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/234)|[파피](https://github.com/TaewanKimmmm)|[김고래](https://github.com/ep1stas1s)|
-|체스/step2|[jwp-chess/step2](https://github.com/da-nyee/jwp-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/299)| |[김고래](https://github.com/ep1stas1s)|
-|지하철 노선도 관리/step1|[atdd-subway-map/step1](https://github.com/da-nyee/atdd-subway-map/tree/step1)|[Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/77)|[코다](https://github.com/yjksw)|[닉](https://github.com/wbluke)|
-|지하철 노선도 관리/step2|[atdd-subway-map/step2](https://github.com/da-nyee/atdd-subway-map/tree/step2)|[Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/141)|[코다](https://github.com/yjksw)|[닉](https://github.com/wbluke)|
-|경로 조회 / 로그인/step1|[atdd-subway-path/step1](https://github.com/da-nyee/atdd-subway-path/tree/step1)|[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/57)|[크로플](https://github.com/perenok)|[게이츠](https://github.com/serverwizard)|
-|경로 조회 / 로그인/step2|[atdd-subway-path/step2](https://github.com/da-nyee/atdd-subway-path/tree/step2)|[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/128)| |[게이츠](https://github.com/serverwizard)|
-|협업/step1|[atdd-subway-fare/step1](https://github.com/da-nyee/atdd-subway-fare/tree/step1)|[Pull Request](https://github.com/woowacourse/atdd-subway-fare/pull/22)|[마크](https://github.com/binghe819)|[데이브](https://github.com/dave915)|
-
-### 블로그 포스팅
-- [[Java] String vs StringBuffer vs StringBuilder](https://da-nyee.github.io/posts/java-string-vs-stringbuffer-vs-stringbuilder/)
-- [[Spring] Entity vs DTO](https://da-nyee.github.io/posts/spring-entity-vs-dto/)
-- [[우아한테크코스] 배포 퀴즈 및 정답 (Deployment Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-deployment-quizzes-and-answers/)
-- [[우아한테크코스] 운영 퀴즈 및 정답 (Operation Quizzes and Answers)](https://da-nyee.github.io/posts/woowa-course-operation-quizzes-and-answers/)
-- [[Spring] HandlerMethodArgumentResolver](https://da-nyee.github.io/posts/spring-handlermethodargumentresolver/)
-- [[Spring] Bean Validation](https://da-nyee.github.io/posts/spring-bean-validation/)
-- [[Spring] Interceptor - CORS Issue](https://da-nyee.github.io/posts/spring-interceptor-cors-issue/)
-- [[Linux] netstat 명령어 (netstat Command)](https://da-nyee.github.io/posts/linux-netstat-command/)
-- [[Linux] pidof 명령어 (pidof Command)](https://da-nyee.github.io/posts/linux-pidof-command/)
-- [[Network] L2 오류 제어 vs L4 오류 제어 (L2 Error Handling vs L4 Error Handling)](https://da-nyee.github.io/posts/network-l2-error-handlingvs-l4-error-handling/)
-- [[우아한테크코스] 기본 생성자가 필요한 이유 (Why the default constructor is needed) (feat. Jackson ObjectMapper + Reflection)](https://da-nyee.github.io/posts/woowa-course-why-the-default-constructor-is-needed/)
-- [[Spring] JdbcTemplate queryForObject() - Return Value Issue](https://da-nyee.github.io/posts/spring-jdbctemplate-queryForObject-return-value-issue/)
-- [[Java] Gradle Dependency Configurations](https://da-nyee.github.io/posts/java-gradle-dependency-configurations/)
-- [[우아한테크코스] 다니의 학습 로그 - 레벨 2](https://da-nyee.github.io/posts/woowa-course-learning-log-level2/)
+|체스/step1|[jwp-chess](https://github.com/woowacourse/jwp-chess)|[Pull Request](https://github.com/woowacourse/jwp-chess/pull/220)|[아마찌](https://github.com/NewWisdom)|[제이](https://github.com/JunHoPark93)|
+|체스/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/jwp-chess/pull/316)| |[제이](https://github.com/JunHoPark93)|
+|지하철 노선도 관리/step1|[atdd-subway-map](https://github.com/woowacourse/atdd-subway-map)|[Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/76)|[오즈](https://github.com/ohjoohyung)|[지노](https://github.com/hyunssooo)|
+|지하철 노선도 관리/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/atdd-subway-map/pull/134)||[지노](https://github.com/hyunssooo)|
+|경로 조회 / 로그인/step1|[atdd-subway-path](https://github.com/woowacourse/atdd-subway-path)|[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/59)|[조이](https://github.com/Joyykim)|[재연링](https://github.com/jaeyeonling)|
+|경로 조회 / 로그인/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/110)| |[재연링](https://github.com/jaeyeonling)|
+|협업/step1|[atdd-subway-fare](https://github.com/woowacourse/atdd-subway-fare)|[Pull Request](https://github.com/woowacourse/atdd-subway-fare/pull/8)|[코다](https://github.com/yjksw)|[닉](https://github.com/wbluke)|
 
 <br/>
 
