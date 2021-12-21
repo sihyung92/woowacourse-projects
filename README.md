@@ -145,12 +145,12 @@
 
 ## 🔥 Writing : 글쓰기 코스
 ### 진행 미션
-|Level |Topic |Repository |Pull Request |Reviewer |
-|:----:|:----:|:---------:|:-----------:|:-------:|
-|1 - 기록|우아한테크코스<br/>한 달 생활기|[woowa-writing-3/LEVEL1.md](https://github.com/da-nyee/woowa-writing-3/blob/da-nyee/LEVEL1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/53)|[포코](https://github.com/devJang)|
-|2 - 성장|우테코에서 찾은<br/>나만의 효과적인 공부법|[woowa-writing-3/LEVEL2.md](https://github.com/da-nyee/woowa-writing-3/blob/level2/LEVEL2.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/118)|[워니](https://github.com/Wonmi91)|
-|3 - 회고|팀 프로젝트가<br/>나에게 남긴 것|[woowa-writing-3/LEVEL3.md](https://github.com/da-nyee/woowa-writing-3/blob/level3/LEVEL3.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/217)|[공원](https://github.com/woowapark)|
-|4 - 시작|내가 꿈꾸는<br/>프로그래머로서의 삶|[woowa-writing-3/LEVEL4.md](https://github.com/da-nyee/woowa-writing-3/blob/level4/LEVEL4.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/300)|[준](https://github.com/wmakerjun)|
+|Level |Topic |글 주소|
+|:----:|:----:|:---------:|
+|1 - 기록|우아한테크코스<br/>한 달 생활기|[링크](https://github.com/woowacourse/woowa-writing-3/tree/sihyung92/step1)|
+|2 - 성장|우테코에서 찾은<br/>나만의 효과적인 공부법|[링크](https://github.com/woowacourse/woowa-writing-3/tree/sihyung92/step2)|
+|3 - 회고|팀 프로젝트가<br/>나에게 남긴 것|[링크](https://github.com/woowacourse/woowa-writing-3/tree/sihyung92/step3)|
+|4 - 시작|내가 꿈꾸는<br/>프로그래머로서의 삶|[링크](https://github.com/woowacourse/woowa-writing-3/tree/sihyung92/step4)|
 
 <br/>
 
