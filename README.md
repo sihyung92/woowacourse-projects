@@ -115,28 +115,33 @@
 ### 진행 미션
 |Project |Repository |Pull Request |Reviewer |
 |:------:|:---------:|:-----------:|:-------:|
-|HTTP 서버 구현하기/step1|[jwp-dashboard-http/step1](https://github.com/da-nyee/jwp-dashboard-http/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/29)|[조엘](https://github.com/PapimonLikelion)|
-|HTTP 서버 구현하기/step2|[jwp-dashboard-http/step2](https://github.com/da-nyee/jwp-dashboard-http/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/88)|[조엘](https://github.com/PapimonLikelion)|
-|MVC 프레임워크 구현하기/step1|[jwp-dashboard-mvc/step1](https://github.com/da-nyee/jwp-dashboard-mvc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/41)|[중간곰](https://github.com/ggyool)|
-|MVC 프레임워크 구현하기/step2|[jwp-dashboard-mvc/step2](https://github.com/da-nyee/jwp-dashboard-mvc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/85)|[중간곰](https://github.com/ggyool)|
-|JDBC 라이브러리 구현하기/step1|[jwp-dashboard-jdbc/step1](https://github.com/da-nyee/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/19)|[피카](https://github.com/pika96)|
-|조회 성능 개선하기/step1|[sql-tuning/step1](https://github.com/da-nyee/sql-tuning/tree/step1)|[Pull Request](https://github.com/woowacourse/sql-tuning/pull/27)|[검프](https://github.com/Livenow14)|
-|레거시 코드 리팩터링/step1|[jwp-refactoring/step1](https://github.com/da-nyee/jwp-refactoring/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/117)|[에어](https://github.com/KJunseo)|
-
-### 블로그 포스팅
-- [[Network] REST와 RESTful (REST and RESTful)](https://da-nyee.github.io/posts/network-rest-restful/)
-- [[Java] Arrays.sort() vs Collections.sort()](https://da-nyee.github.io/posts/java-arrays-sort-vs-collections-sort/)
-- [[Network] Nginx에 HTTP 2.0을 적용하는 방법 (How to set up Nginx with HTTP 2.0)](https://da-nyee.github.io/posts/network-how-to-set-up-nginx-with-http2.0/)
-- [[Real MySQL] 05. 트랜잭션과 잠금](https://da-nyee.github.io/posts/real-mysql-05/)
-- [[Web] 웹 성능 테스트 (Web Performance Testing)](https://da-nyee.github.io/posts/web-web-performance-testing/)
-- [[Database] DB Replication을 구성한 이유 (Why DB Replication is set up)](https://da-nyee.github.io/posts/why-db-replication-is-set-up/)
-- [[우아한테크코스] 인덱스 (Indexes)](https://da-nyee.github.io/posts/woowa-course-indexes/)
-- [[Database] M1(ARM)에서 Embedded Redis를 사용하는 방법 (How to use Embedded Redis on M1(ARM))](https://da-nyee.github.io/posts/how-to-use-embedded-redis-on-m1-arm/)
-- [[Git] Tagging으로 버전 관리하기 (Tagging for Version Control)](https://da-nyee.github.io/posts/git-tagging-for-version-control/)
-- [[Database] DB Replication 데이터 정합성 문제 (DB Replication Data Consistency Issue)](https://da-nyee.github.io/posts/db-replication-data-consistency-issue/)
-- [[Java] POJO](https://da-nyee.github.io/posts/java-pojo/)
+|HTTP 서버 구현하기/step1|[jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/31)|[중간곰](https://github.com/ggyool)|
+|HTTP 서버 구현하기/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/63)|[중간곰](https://github.com/ggyool)|
+|MVC 프레임워크 구현하기/step1|[jwp-dashboard-mvc](https://github.com/da-nyee/jwp-dashboard-mvc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/8)|[현구막](https://github.com/Hyeon9mak)|
+|MVC 프레임워크 구현하기/step2| 위와 같음 |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/50)|[현구막](https://github.com/Hyeon9mak)|
+|MVC 프레임워크 구현하기/step3| 위와 같음 |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/87)|[현구막](https://github.com/Hyeon9mak)|
+|JDBC 라이브러리 구현하기/step1|[jwp-dashboard-jdbc](https://github.com/woowacourse/jwp-dashboard-jdbc)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/3)|[포모](https://github.com/bosl95)|
+|조회 성능 개선하기/step1|[sql-tuning](https://github.com/woowacourse/sql-tuning)|[Pull Request](https://github.com/woowacourse/sql-tuning/pull/5)|[멍토](https://github.com/daum7766)|
+|레거시 코드 리팩터링/step1|[jwp-refactoring](https://github.com/woowacourse/jwp-refactoring)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/153)|[소롱](https://github.com/soulgchoi)|
 
 <br/>
+
+## 🪄 사이드 프로젝트 : 학습 메타인지를 도와주는 서비스, 프롤로그
+### 기간
+- 2021.06 – 현재
+
+### 진행 프로젝트
+- 프롤로그(https://github.com/woowacourse/prolog)
+
+### 활동 내용
+#### 기여
+- [PR](https://github.com/woowacourse/prolog/pulls?q=is%3Apr+author%3Asihyung92+is%3Aclosed)
+
+#### 맡은 역할
+- 기획 및 초기 도메인 설계
+- 학습로그에 대한 기초 설계
+- 이미지 업로드 기능
+- JDBC -> JPA로 포팅
 
 ## 🔥 Writing : 글쓰기 코스
 ### 진행 미션
