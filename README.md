@@ -154,25 +154,28 @@
 
 <br/>
 
-## 🔥 Tecoble : 우아한테크코스 코드 리뷰 모음 공간
+## 🔥 외부활동
 ### 활동 내용
-#### 글
-- [웹 MVC 각 컴포넌트 역할](https://woowacourse.github.io/tecoble/post/2021-04-26-mvc/)
-- [DTO vs VO vs Entity](https://woowacourse.github.io/tecoble/post/2021-05-16-dto-vs-vo-vs-entity/)
-- [단위 테스트 vs 통합 테스트 vs 인수 테스트](https://woowacourse.github.io/tecoble/post/2021-05-25-unit-test-vs-integration-test-vs-acceptance-test/)
-- [DispatcherServlet - Part 1](https://woowacourse.github.io/tecoble/post/2021-06-25-dispatcherservlet-part-1/)
-- [DispatcherServlet - Part 2](https://woowacourse.github.io/tecoble/post/2021-07-15-dispatcherservlet-part-2/)
-- [git submodule로 중요한 정보 관리하기](https://woowacourse.github.io/tecoble/post/2021-07-31-git-submodule/)
-- [JPA CascadeType.REMOVE vs orphanRemoval = true](https://woowacourse.github.io/tecoble/post/2021-08-15-jpa-cascadetype-remove-vs-orphanremoval-true/)
-- [커버링 인덱스](https://tecoble.techcourse.co.kr/post/2021-10-12-covering-index/)
-
-#### 개선
-- [도메인 주소 변경](https://github.com/woowacourse/tecoble/pull/548)
-- [리뷰어 매칭 프로그램 개발](https://github.com/dusdn1702/tecoble-match-reviewer)
-
+#### 글쓰는 또라이 모임, 글또 6기
+- 기간 : 21년 하반기
+- 내용 : 양질의 개발 블로그 만들기
+- 블로그 주소 : https://sihyung92.oopy.io/
+#### 우테코 복수방 리뷰어
+- 기간 : 21년 11월 ~ 12월
+- 내용 : 우테코 4기 탈락자들 코드 리뷰
+##### 리뷰 목록
+|미션 |깃헙주소 |리뷰 PR|
+|:----:|:----:|:---------:|
+|숫자 야구|[미션 레포지토리](https://github.com/woowacourse/java-baseball-precourse)|[리뷰1](https://github.com/REVENGE-WOOTECO/java-baseball-precourse/pull/2)|
+|숫자 야구|[미션 레포지토리](https://github.com/woowacourse/java-baseball-precourse)|[리뷰2](https://github.com/REVENGE-WOOTECO/java-baseball-precourse/pull/6)|
+|레이싱 카|[미션 레포지토리](https://github.com/woowacourse/java-racingcar-precourse)|[리뷰1](https://github.com/REVENGE-WOOTECO/java-racingcar-precourse/pull/4)|
+|자판기|[미션 레포지토리](https://github.com/REVENGE-WOOTECO/java-vendingmachine-precourse/pull/1)|[리뷰1](https://github.com/REVENGE-WOOTECO/java-vendingmachine-precourse/pull/1)|
 
 <br/>
 
 ## 🎙 Tecotalk : 우아한테크코스 지식 공유 모음 공간
 ### 활동 내용
-- [[10분 테코톡] 🍭 다니의 HTTPS](https://www.youtube.com/watch?v=wPdH7lJ8jf0&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+- [[10분 테코톡] git 브랜치 전략](https://www.youtube.com/watch?v=jeaf8OXYO1g)
+- [[10분 테코톡] OOP](https://www.youtube.com/watch?v=3etKkkna-f0&t=11s)
+- [[10분 테코톡] 인텔리제이 디버깅](https://www.youtube.com/watch?v=gkutTlwi70s&t=1222s)
+- [[10분 테코톡] 지속적 배포](https://www.youtube.com/watch?v=X6QGhg19Kqg&t=2s)
