@@ -15,13 +15,15 @@
 ### 진행 미션
 |Project |Repository |Pull Request |
 |:------:|:---------:|:-----------:|
-|숫자 야구 게임|[java-baseball-precourse](https://github.com/da-nyee/java-baseball-precourse/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/282)|
-|자동차 경주 게임|[java-racingcar-precourse](https://github.com/da-nyee/java-racingcar-precourse/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/260)|
-|지하철 노선도 미션|[java-subway-map-precourse](https://github.com/da-nyee/java-subway-map-precourse/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/java-subway-map-precourse/pull/95)|
+|숫자 야구 게임|[java-baseball-precourse](https://github.com/woowacourse/java-baseball-precourse)|[Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/287)|
+|자동차 경주 게임|[java-racingcar-precourse](https://github.com/woowacourse/java-racingcar-precourse)|[Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/238)|
+|지하철 노선도 미션|[java-subway-map-precourse](https://github.com/woowacourse/java-subway-map-precourse)|[Pull Request](https://github.com/woowacourse/java-subway-map-precourse/pull/75)|
 
-### 블로그 포스팅
-- [[우아한테크코스] 우아한테크코스 프리코스 회고](https://da-nyee.github.io/posts/woowa-course-precourse-retrospective/)
-
+### 프리코스 기간동안 배우고 느낀 점
+1. 람다와 스트림, 테스트 코드에 대해 배웠다.
+2. 여러 사람이 같은 요구사항을 각각 수행하고, 다른 사람의 코드를 참고하면 빠르게 성장할 수 있단 것을 배웠다.
+3. 단순히 작동하는 것을 넘어 가독성과 객체지향적 코드를 작성하는 방법을 배웠다.
+  
 <br/>
 
 ## 🔥 Level 0.5 : 최종 코딩 테스트
