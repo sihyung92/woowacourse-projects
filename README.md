@@ -33,10 +33,11 @@
 ### 진행 미션
 |Project |Repository |Pull Request |
 |:------:|:---------:|:-----------:|
-|지하철 노선도 경로 조회 미션|[java-subway-path-precourse](https://github.com/da-nyee/java-subway-path-precourse/tree/da-nyee)|[Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/11)|
+|지하철 노선도 경로 조회 미션|[java-subway-path-precourse](https://github.com/woowacourse/java-subway-path-precourse)|[Pull Request](https://github.com/woowacourse/java-subway-path-precourse/pull/20)|
 
-### 블로그 포스팅
-- [[우아한테크코스] 우아한테크코스 최종 코딩 테스트 회고](https://da-nyee.github.io/posts/woowa-course-final-coding-test-retrospective/)
+### 제출하며 답신한 메일 중 발췌
+> 피드백에 목말라있어서 대뜸 상호 피드백해줄 사람부터 찾았는데, 유** 님과 서로의 코드를 피드백 해주면서 3~4시간이 그냥 훌쩍 가더라고요. 제가 생각도 못한 부분을 말씀해주시고, 질문을 받아 대답하면서 모호하던 것을 깨우치기도 하고! 무언가 우테코 과정이 이런걸까 느낌을 받았습니다. 미션을 하다보니 코딩이 즐거웠어요. 타인과 교류할 때 고양감 같은 것도 생기고요. 만약 떨어지더라도, 이런 귀중한 경험을 얻었으니 지원한 것에 결코 후회는 안 할 것 같네요.
+- 함께 자라기의 즐거움을 처음 느꼈을 때라고 생각한다.
 
 <br/>
 
